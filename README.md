@@ -15,14 +15,8 @@ A passionate and driven Computer Engineering student with a strong foundation in
 
 #### My Skill Set
 <div style="display: flex; justify-content: space-around;">
-  <!-- Programming Languages Section -->
-  <div style="text-align: center;">
-    <h3>Programming Languages</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  </div>
+  
+ 
 
   <!-- Data Science Tools Section -->
   <div style="text-align: center;">
@@ -40,6 +34,15 @@ A passionate and driven Computer Engineering student with a strong foundation in
     <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white" alt="Deep Learning" />
     <img src="https://img.shields.io/badge/Computer%20Vision-6A5ACD?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
     <img src="https://img.shields.io/badge/NLP-9A9A9A?style=for-the-badge&logo=nlp&logoColor=black" alt="Natural Language Processing" />
+  </div>
+
+<!-- Programming Languages Section -->
+   <div style="text-align: center;">
+    <h3>Programming Languages</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </div>
 
   <!-- Cloud & Databases Section -->
